@@ -13,6 +13,7 @@
 
 ## Steps to be followed:
 * Download or clone this repository
+* Create a folder named data
 * Run login.py
 * Then you'll be redirected to a login page where you need to register and login
 * After login, you'll be directed to the home page. 
